@@ -1,3 +1,5 @@
+Website chosen to analyze : http://www.bikes.com/en
+
 // SEO success factors //
 
 - Vc (Cloaking/-3/BAD); the police of the top menu, which appears when menu hovered over, 
@@ -23,7 +25,7 @@ Key Partners
 - External manifacture (frames)
 - Resale shops 
 - Distributors 
-- Other brands from the biking industry 
+- Other brands from the biking industry cd used
 - Specific races or mountain biking festival/events
 
 Key Activities
