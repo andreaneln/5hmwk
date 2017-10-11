@@ -1,7 +1,20 @@
 // SEO success factors //
 
-- 
+- Vc (Cloaking/-3/BAD); the police of the top menu, which appears when menu hovered over, 
+is white and not contrasting enough with the background photo. The words get a little bit lost. 
+The dark red color is takes when hovered is not much better for this particular photo. 
 
+- As (Speed/+1/Neutral); Speed of loading is O.K., but not the fastest.
+
+- Cw (Words/+2/BAD); Wording can be a bit troublesome on this website. In the menu it can be 
+confusing what design tab stands for. Should rather be technology or a more specific term. Same with stories
+
+- Ht (HTML titles/GOOD); title of page = Rocky Mountain Bicycles, word bikes used in HTML as well /
+pretty good, people may search bicycles or mountain bikes
+
+- Pc (Country/+3//GOOD); It is SUPER easy to select the area you want to website to assume you are from/in. 
+
+- Ph (History/+3/BAD); This website does not take into account previous visits or search 
 
 // Business model canvas for Rocky Mountain Bicycles //
 
