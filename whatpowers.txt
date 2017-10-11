@@ -1,0 +1,34 @@
+//What Powers this Website? Major tools//
+
+CMS
+Drupal 7 - An open source content manager system that is known to be flexible
+
+Analytics
+Google Analytics - Bikes.com uses google analytic, it is a free web analytics services providing
+    you with statistics and basic analytic tools for SEO. 
+
+Miscellaneous
+Pingdom - web performance monitoring tool, see how your users are using your website in real time
+
+Programming Language
+PHP	- hypertext preprocessor is an HTML-embedded scripting language that is used to write web pages
+
+Widgets
+AddThis - Share buttons, targeting tools, and content recommandations 
+
+Font Script
+Google Font API - Special fonts you can add and then refer to in CSS manner
+
+Web Server
+Nginx - free and open source software, maybe used as a load balancer which would help the 
+    distribution to all the resources
+
+Javascript Frameworks
+Modernizr - tells you what HTML, CSS and JavaScript features the user's browser has to offer and aims at not 
+    using/replacing the ones that are not supported
+jQuery 1.7.2 - JavaScript library facilitating the HTML input of the user
+Respond JS (??)
+
+Font
+FontAktiv Grotesk
+Font FamilyAktiv Grotesk, Sans Serif
